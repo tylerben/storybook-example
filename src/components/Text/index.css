@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+
+.title {
+  font-size: 24px;
+  font-family: "Alfa Slab One", cursive;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+.subtitle {
+  font-size: 18px;
+  font-family: "Alfa Slab One", cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+.medium {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.small {
+  font-size: 14px;
+  font-family: sans-serif;
+}
